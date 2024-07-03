@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: skyblue;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 1.5;
+    text-align: center;
+  }
+  
+  table {
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 5px;
+    border: 1px solid black;
+  }
+  
+  th {
+    background-color: pink;
+  }
+  
+  td {
+    background-color: orange;
+  }
+  
+  mark {
+    font-family: monospace, Courier,sans-serif;
+    background-color: rgb(211, 211, 211);
+  }
+  
+  footer {
+    background-color: lightgreen;
+    text-align: center;
+  }
